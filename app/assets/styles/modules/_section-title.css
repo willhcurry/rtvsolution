@@ -11,8 +11,8 @@
     font-weight: 500;
   }
 
-  &--blue {
-    color: $mainBlue;
+  &--gray {
+    color: $mainGray;
   }
 
   &__icon {
